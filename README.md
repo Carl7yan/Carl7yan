@@ -1,6 +1,6 @@
 - Hi, I’m @Carl7yan
-- I'm not a native English user but enjoy the possess of learning English
-- I’m currently learning --> linux, python, verilog HDL
+- I'm not a native English user but enjoying the possess of learning English
+- I'm majoring in digital IC design meanwhile I love exploring the world of Internet.
 - I love my life so much
 - How to reach me --> carl.shengjie.yan@gmail.com
 
