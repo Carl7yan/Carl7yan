@@ -1,0 +1,2 @@
+amba（axi、ahb、apb）
+uart/i2c/spi

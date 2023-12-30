@@ -1,0 +1,4 @@
+配置eda工作环境，脚本开发，回归开发。。。
+
+soffice ***.xml &    //打开excel文档
+find . -name ""

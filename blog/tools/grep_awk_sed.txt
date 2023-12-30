@@ -1,0 +1,14 @@
+grep -r "string"	// -r 递归搜索所有文件，含有string的行
+grep -i "string"	// -i 不区分大小写
+grep -n "string"	// -n 显示内容包括行号
+grep -c "string" ./file	// -c 出现string的次数
+grep -E "str1|str2"	// -E "|" 查找多个关键字
+
+cat ./file		// cat 显示文件的所有内容
+grep -v "string" ./file	// -v 排除出现string的行
+
+"^$"			// ^$ 空白行
+"^string"		// ^ 以string开头的行
+“string$“		// $ 以string结束的行
+.			// 除了换行符（\n）以外的任何字符
+

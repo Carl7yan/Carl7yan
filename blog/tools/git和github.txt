@@ -1,0 +1,39 @@
+一、最常用的组合
+1. git add              #【在main分支下】
+2. git commit -m “”     #【在main分支下】
+3. git status           #【在main分支下】确认所有文件都已commit
+4. git checkout test    #【在main分支下】切换到test分支
+5. git pull             #【在test分支下】将远程库拉到test分支
+6. git merge main       #【在test分支下】将main分支merge到test分支
+7. git push             #【在test分支下】上传
+二、github的初始配置
+1. git config user.name “Carl7yan”         #配置本地git
+2. git config user.email “***@gmail.com”
+3. git config –-global -–list                #查看本地git配置
+4. ssh-keygen -t rsa -C “***@gmail.com”    #生成ssh自动保存到～/.ssh/id_rsa.pub
+5. 将id_rsa.pub复制到github
+6. ssh -T git@github.com                   #测试本地和github是否关联成功
+三、其他（暂未整理）
+git add -u                     //只add新增的文件
+git remote rm origin 
+git remote add origin “url” 
+git remote -v           // show remote url
+git push -u origin main
+
+git clone **
+// branch 
+git branch -a // list all branch 
+git branch -m oldname newname // rename branch
+git checkout -b name1 // construct new branch 
+git checkout name2 // change branch 
+git merge name1 // merge name1 in name2 
+git merge -d name1 // delete branch name1
+
+// tag 
+git tag Nanh_RTL0.9_REV13// give a tag to current branch 
+git tag // list all tags
+git reset –hard head #当前版本 
+git reset –hard HEAD^ #回退到上一个版本 
+git reset –hard HEAD^^ #回退到上上一个版本 
+git reset –hard HEAD~3 #回退到往上3个版本 
+git reset –hard HEAD~10 #回退到往上10个版本
