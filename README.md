@@ -1,11 +1,11 @@
 ### Hi there 👋
 About Me
- - Hi, I'm Shengjie, a digital IC verification engineer with 1 year of internship experience.
+ - Hi, I'm Shengjie, a digital IC verification engineer with 2 years internship and 0.5 year work experience.
  - I‘m passionate about using GitHub to collaborate with others and giving back to the community.
 
 
 Contact Me
- - If you have any questions or feedback, please don't hesitate to contact me.
+ - If you have any questions or feedback, please contact me at
  - Email: carl.shengjie.yan@gmail.com
  - Github: https://github.com/Carl7yan
  - LinkedIn: https://linkedin.com/in/Carl7yan
